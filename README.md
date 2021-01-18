@@ -1,3 +1,4 @@
+///////////Search function works on local machine only due to heroku security protocols.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
